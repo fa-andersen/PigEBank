@@ -1,5 +1,11 @@
 # Pig E Bank Customer Churn Analysis
 
+## Visualizations, Report & Decision Tree
+[Pig E. Bank Report](https://github.com/fa-andersen/PigEBank/blob/main/04%20Sent%20to%20client/5.4-PigEBank-Client-Data%20set_FA.xlsx)
+
+[Pig E. Bank Risk Tree](https://github.com/fa-andersen/PigEBank/blob/main/04%20Sent%20to%20client/5.4%20Decision%20Tree.pdf)
+
+##Introduction
 PIG E. BANK, is a well-known global bank. They want analytical support for its anti-money-laundering compliance department. As well as improving services to decrease customer churn.
 
 ## Objective
@@ -31,9 +37,3 @@ I provided an At-Risk Customer profile based on all factors of customers based o
 ● Churn & Retention Analysis:
 
 ● Regression Analysis & Predictive Modeling:
-
-
-## Additional resources and links
-[Pig E. Bank Report](https://github.com/fa-andersen/PigEBank/blob/main/04%20Sent%20to%20client/5.4-PigEBank-Client-Data%20set_FA.xlsx)
-
-[Pig E. Bank Risk Tree](https://github.com/fa-andersen/PigEBank/blob/main/04%20Sent%20to%20client/5.4%20Decision%20Tree.pdf)
